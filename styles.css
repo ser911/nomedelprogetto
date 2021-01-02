@@ -1,0 +1,85 @@
+body{
+  background-image: url(images/background.jpg);
+  background-size: cover;
+  font-family: 'Montserrat', sans-serif;
+}
+
+div{
+  width: 70%;
+  border: 1px black;
+  margin: 50px auto;
+  text-align: center;
+border: 1px solid black;
+border-radius: 5%;
+background-color: rgb(32,32,32); opacity: 0.7;
+}
+
+img{
+display: inline-block;
+width: 250px;
+height: 110px;
+margin-top: 95px;
+}
+h1{
+  color: #54e346;
+  }
+  nav{
+    width: 80%;
+    background-color: #54e346;
+    border: 1px solid #54e346;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 0px;
+  }
+
+  }
+  button{
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  main{
+    text-align: justify;
+    color: #FFFFFF;
+    margin-bottom: 150px;
+  }
+
+  .users{
+    margin-left: 125px;
+    line-height: 3px;
+    margin-bottom: 20px;
+  }
+  h2{
+    display: inline-block;
+  }
+  h4{
+
+  }
+  h4:before{
+     content: ' \21A6';
+  }
+
+  #first-bar{
+    display: inline-block;
+    background-color: #ffc85c;
+    width: 20%;
+    border: 1px solid #ffc85c;
+border-radius: 5%;
+  }
+
+  #second-bar{
+    display: inline-block;
+    background-color: #54e346;
+    width: 40%;
+    border: 1px solid #54e346;
+border-radius: 5%;
+  }
+  #third-bar{
+    display: inline-block;
+    background-color: #af2d2d;
+    width: 8%;
+    border: 1px solid #af2d2d;
+border-radius: 5%;
+
+
+  }
